@@ -18,8 +18,7 @@ Side drawer is used to provide some functionality to the user.
 
 
 ## Screenshots of the application 
-![](https://github.com/AmanNegi/FlutterQuoteApp/blob/master/ScreenShots/main.jpg)
-
+<img src="https://github.com/AmanNegi/FlutterQuoteApp/blob/master/ScreenShots/main.jpg" width="400" />
 <p float="left">
   <img src="https://github.com/AmanNegi/FlutterQuoteApp/blob/master/ScreenShots/main_screen.jpg" width="100" /> 
   <img src="https://github.com/AmanNegi/FlutterQuoteApp/blob/master/ScreenShots/main_screen2.jpg" width="100" />
