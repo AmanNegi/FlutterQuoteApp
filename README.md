@@ -1,16 +1,46 @@
-# quotes_app_flutter
+# FlutterQuoteApp
+A Quote displaying app build using flutter.
 
-A new Flutter project.
 
-## Getting Started
+## Topics Covered
 
-This project is a starting point for a Flutter application.
+* **JSON Decoding**<br/>
+Data regarding the Quotes and images is received from external API in form of JSON. JSON is then decoded and shown in form of list.
 
-A few resources to get you started if this is your first Flutter project:
+* **Shared Prefrences**<br/>
+Shared prefrences is used to save local user data. eg: User based choices
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+* **Pull to refresh**</br>
+In order to refresh data pull to refresh is implemented using package from ```pub.dart``` check packages used for more details.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* **Drawer**</br>
+Side drawer is used to provide some functionality to the user.
+
+
+## Screenshots of the application
+<p float="left">
+  <img src="https://github.com/AmanNegi/FlutterQuoteApp/blob/master/ScreenShots/main.jpg" width="100" />
+  <img src="https://github.com/AmanNegi/FlutterQuoteApp/blob/master/ScreenShots/main_screen.jpg" width="100" /> 
+  <img src="https://github.com/AmanNegi/FlutterQuoteApp/blob/master/ScreenShots/main_screen2.jpg" width="100" />
+  <img src="https://github.com/AmanNegi/FlutterQuoteApp/blob/master/ScreenShots/error.jpg" width="100"/>
+  <img src="https://github.com/AmanNegi/FlutterQuoteApp/blob/master/ScreenShots/drawer.jpg" width="100"/>
+</p>
+Working Video https://github.com/AmanNegi/FlutterQuoteApp/blob/master/ScreenShots/walkthrough.mp4
+
+## Plugins/Packages used
+* [http](https://pub.dev/packages/http)<br/>
+* [url_launcher](https://pub.dev/packages/url_launcher)<br/>
+* [flutter_svg](https://pub.dev/packages/flutter_svg)<br/>
+* [google_fonts](https://pub.dev/packages/google_fonts)<br/>
+* [pull_to_refresh](https://pub.dev/packages/pull_to_refresh)<br/>
+* [shared_preferences](https://pub.dev/packages/shared_preferences)<br/>
+
+## Authors
+
+>  [**Aman Negi**](https://github.com/AmanNegi) - *Initial work*
+
+
+## Feel Free to Contract
+
+* Gmail : akuro787898@gmail.com
+* Facebook : https://www.facebook.com/flyWithFlutter
